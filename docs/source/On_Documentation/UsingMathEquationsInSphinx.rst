@@ -23,10 +23,10 @@
       Public.
 
 Creating equations in Sphinx
-############################
+****************************
 
 LaTeX
-*****
+=====
 
 The syntax for writing equations is LaTeX.
 
@@ -46,7 +46,7 @@ The following links are useful:
    for a not-so-gentle introduction to LaTeX.
 
 MathJax
-*******
+=======
 
 In Sphinx, the rendering (display) of the equations
 can be done in different ways,
@@ -64,7 +64,7 @@ By default, this is the MathJax site,
 but the path can be changed no cross-site scripting is allowed.
 
 Equation editors or previewers
-******************************
+==============================
 
 Given that LaTeX syntax may be daunting,
 a WYSIWYG math editor can be useful, or at least an interactive previewer:
@@ -91,7 +91,7 @@ a WYSIWYG math editor can be useful, or at least an interactive previewer:
    for Windows systems, MiKTeX_ is a possible alternative).
 
 Examples
-********
+========
 
 See additional examples at http://sphinx-doc.org/ext/math.html.
 
@@ -128,7 +128,7 @@ Code:
    \atop 
    U, \text{ otherwise } 
    }
-
+   
 Output:
 
 .. math::

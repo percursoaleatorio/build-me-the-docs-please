@@ -1,4 +1,4 @@
-About the technical documentation generator
+Using the technical documentation generator
 *******************************************
 
 Introduction
@@ -19,11 +19,8 @@ the application that automatically converts the text files
 and generates the documentation in HTML format or PDF format.
 
 For example, this HTML page was originally written in reStructuredText.
-Press the link in the right-hand side bar to see the original text and markup:
+Please, press the *Source* link in the menu to see the original text and markup.
 
-.. figure:: img/ShowSource.png
-   :alt: See the source code.
-   :width: 20% 
 
 References
 ==========
