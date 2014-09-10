@@ -15,12 +15,6 @@ import sys, os
 # -- Read the Docs stuff ---------------------------------------------------
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
-# nery: @begin-experimenting-with-bootstrap-theme
-import sphinx_bootstrap_theme
-# nery: @end-experimenting-with-bootstrap-theme
-
-
-
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -39,10 +33,12 @@ if on_rtd:
 else:
    extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz', 'sphinxcontrib.plantuml', 'sphinxcontrib.exceltable']
 	
-# NOTE - THIS IS A QUICK AND DIRTY SOLUTION
-#        PUT A COPY OF plantuml.jar IN THE ../utils FOLDER
-#        WHERE THE PATH IS RELATIVE TO THE make FILE LOCATION.
-plantuml = 'java -jar ../utils/plantuml.jar'
+   # NOTE - THIS IS A QUICK AND DIRTY SOLUTION
+   #        PUT A COPY OF plantuml.jar IN THE ../utils FOLDER
+   #        WHERE THE PATH IS RELATIVE TO THE make FILE LOCATION.
+   plantuml = 'java -jar ../utils/plantuml.jar'
+   
+   import sphinx_bootstrap_theme
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
