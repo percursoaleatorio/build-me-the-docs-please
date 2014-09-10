@@ -9,7 +9,7 @@ about the technical documentation generator, the version control system
 and the issue tracking (and project management) system.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    On_Documentation/index
    

@@ -1,6 +1,6 @@
 
-Tools for reStructuredText
-**************************
+Publishing the documents online
+*******************************
 
 Introduction
 ============
@@ -78,3 +78,9 @@ as Jekyll sees these as special directories and does not copy them to the final 
 Since Sphinx_ puts all the static files in a ``_static`` folder,
 this needs to be done, otherwise the stylesheets, etc,
 won't be uploaded to the html site.
+
+
+
+.. links-placeholder
+
+.. include:: ../Z_SharedFiles/Z_GenericLinks.txt

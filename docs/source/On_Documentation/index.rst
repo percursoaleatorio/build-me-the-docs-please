@@ -30,6 +30,8 @@ References
    
    OnReStructuredText
    ToolsForReStructuredText
+   PublishingTheDocsOnline
+   
    ShowingCodeExamplesInSphinx
    UsingGraphicsAndDiagramsInSphinx
    UsingBibTeXCitationsInSphinx
