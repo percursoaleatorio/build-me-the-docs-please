@@ -29,9 +29,9 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 
 if on_rtd:
-   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinxcontrib.bibtex']
+   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz']
 else:
-   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz', 'sphinxcontrib.plantuml', 'sphinxcontrib.exceltable']
+   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz', 'sphinxcontrib.bibtex', 'sphinxcontrib.plantuml', 'sphinxcontrib.exceltable']
 	
    # NOTE - THIS IS A QUICK AND DIRTY SOLUTION
    #        PUT A COPY OF plantuml.jar IN THE ../utils FOLDER
