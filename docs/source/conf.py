@@ -10,12 +10,16 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
+import sys, os
+
+# -- Read the Docs stuff ---------------------------------------------------
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 # nery: @begin-experimenting-with-bootstrap-theme
 import sphinx_bootstrap_theme
 # nery: @end-experimenting-with-bootstrap-theme
 
-import sys, os
+
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -29,9 +33,12 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz', 'sphinxcontrib.plantuml', 'sphinxcontrib.exceltable']
-#extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinxcontrib.bibtex']
 
+if on_rtd:
+   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinxcontrib.bibtex']
+else:
+   extensions = ['sphinx.ext.todo', 'sphinx.ext.pngmath', 'sphinx.ext.mathjax', 'sphinx.ext.graphviz', 'sphinxcontrib.plantuml', 'sphinxcontrib.exceltable']
+	
 # NOTE - THIS IS A QUICK AND DIRTY SOLUTION
 #        PUT A COPY OF plantuml.jar IN THE ../utils FOLDER
 #        WHERE THE PATH IS RELATIVE TO THE make FILE LOCATION.
@@ -118,16 +125,15 @@ todo_include_todos = True
 #html_theme_path = []
 #html_theme_path = ['_themes']
 
-# nery: @begin-experimenting-with-bootstrap-theme
+if on_rtd:
+   html_theme = 'default'
+else:
+   html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+   html_theme = 'bootstrap'
+   html_theme_options = {
+						  'bootswatch_theme': "",
+						  }
 
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-html_theme = 'bootstrap'
-
-# nery: The bootswatch CSS is served through the CDN. It is too slow.
-html_theme_options = {
-                      'bootswatch_theme': "",
-                      }
-# nery: @end-experimenting-with-bootstrap-theme
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
