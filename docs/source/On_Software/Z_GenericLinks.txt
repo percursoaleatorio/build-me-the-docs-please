@@ -1,0 +1,394 @@
+.. metadata-placeholder
+
+   :DC.Title: 
+      Generic links to be available in all documents
+   :DC.Creator: 
+      Nery, Fernanda
+   :DC.Language:
+      en
+   :DC.Format:
+      text/x-rst 
+   :DC.Description
+      This is a partial file at::
+         /docs/source/On_Software/Z_GenericLinks.txt
+         
+      Link it to the master file at:: 
+      
+         /docs/source/Z_SharedFiles/Z_GenericLinks.txt
+         
+      with the following directive::
+      
+         .. include:: ../On_Software/Z_GenericLinks.txt
+         
+.. operating-systems
+
+.. _debian: http://www.debian.org/ 
+.. _ubuntu: http://www.ubuntu.com/ 
+.. _red hat: http://www.redhat.com/
+.. _centos: http://www.centos.org/
+.. _fedora: http://fedoraproject.org/
+.. _suse: https://www.suse.com/
+
+.. _canonical: http://www.canonical.com/
+
+.. database-management-systems
+
+.. _postgresql: http://www.postgresql.org/
+.. _postgis: http://postgis.net/
+.. _enterprisedb: http://www.enterprisedb.com/
+.. _refractions research: http://www.refractions.net/
+
+.. _hstore: http://www.postgresql.org/docs/9.2/static/hstore.html
+
+
+.. _mysql: http://www.mysql.com/
+.. _mariadb: https://mariadb.org/
+.. _drizzle: http://www.drizzle.org/
+.. _percona server: http://www.percona.com/software/percona-server
+
+.. _openvirtuoso: http://virtuoso.openlinksw.com/
+
+.. _ingres: http://community.actian.com/wiki/ingres_projects
+.. _actian: http://www.actian.com
+
+.. _sqlite: http://www.sqlite.org/
+.. _spatialite: https://www.gaia-gis.it/fossil/libspatialite/index
+
+.. _oracle: http://www.oracle.com
+.. _oracle spatial and graph: http://www.oracle.com/technetwork/database-options/spatialandgraph/overview/index.html
+
+.. _SQL Server: http://www.microsoft.com/en-us/sqlserver/default.aspx
+.. _DB2: http://www-01.ibm.com/software/data/db2/
+
+.. nosql 
+
+.. _MongoDB: http://www.mongodb.org/
+
+.. gis-repositories
+
+.. _DebianGIS: http://wiki.debian.org/DebianGis
+.. _UbuntuGIS: https://wiki.ubuntu.com/UbuntuGIS
+.. _ELGIS: http://elgis.argeo.org/
+.. _EPEL: http://fedoraproject.org/wiki/EPEL
+
+.. gis
+
+.. _GeoNetwork: http://geonetwork-opensource.org/ 
+
+.. _proj: http://trac.osgeo.org/proj/
+.. _GDAL: http://www.gdal.org/
+.. _GRASS: http://grass.osgeo.org/
+.. _JOSM: http://josm.openstreetmap.de/
+.. _OpenStreetMap: http://www.openstreetmap.org/
+
+.. geodata-servers
+
+.. _geoserver: http://geoserver.org/
+.. _mapserver: http://www.mapserver.org/
+.. _deegree: http://www.deegree.org/
+.. _tinyows: http://mapserver.org/tinyows/
+.. _mapnik: http://mapnik.org/
+
+.. _PHP Mapscript: http://mapserver.org/mapscript/
+
+.. web mapping
+
+.. _mapguide: http://mapguide.osgeo.org/
+
+.. _AtlasMapper: https://code.google.com/p/atlasmapper/
+.. _CartoWeb: http://www.cartoweb.org/
+.. _Chameleon: http://chameleon.maptools.org/index.phtml
+.. _collective.geo: https://github.com/collective/collective.geo.bundle
+.. _dbox: http://maps.dnr.state.mn.us/tools/dbox/
+.. _Dracones: http://surveillance.mcgill.ca/dracones/
+.. _FlexLayers: https://code.google.com/p/flexlayers
+.. _Fusion: http://trac.osgeo.org/fusion
+.. _GeoExt: http://geoext.org/
+.. _geojsp: http://geojsp.org/
+.. _GeoMondrian: http://www.spatialytics.org/projects/geomondrian/
+.. _GeoMOOSE: http://www.geomoose.org/
+.. _GeoPrisma: http://geoprisma.org/
+.. _GeoShield: https://sites.google.com/site/geoshieldproject/
+.. _GeoWebCache: http://geowebcache.org/
+.. _HSLayers: http://bnhelp.cz/hslayers/
+.. _i3geo: http://mapas.mma.gov.br/i3geo/documentacao/files/principal-htm.html
+.. _ka-Map: http://ka-map.maptools.org/
+.. _leaflet: http://leafletjs.com/
+.. _Mapbender: http://mapbender3.org/en
+.. _MapFish: http://mapfish.org/
+.. _MapProxy: http://mapproxy.org/
+.. _MapQuery: http://mapquery.org/
+.. _Modest Maps: http://modestmaps.com/
+.. _OpenLayers: http://www.openlayers.org/
+.. _OpenScales: http://openscales.org/
+.. _p.mapper: http://www.pmapper.net/
+.. _Polymaps: http://polymaps.org/
+.. _Thematic Mapping Engine: http://thematicmapping.org/engine/
+.. _TileCache: http://tilecache.org/
+.. _TileMill: http://mapbox.com/tilemill/
+
+.. mapping services
+
+.. _OpenRouteService: http://www.openrouteservice.org/
+
+.. _GeoNames: http://www.geonames.org/
+
+.. web mapping client
+
+.. _GPAAMP: https://code.google.com/p/gbif-geospatial/
+.. _Heron Mapping Client: http://heron-mc.org/
+.. _ReadyMap Web SDK:  http://readymap.com/websdk.html
+
+
+.. _Lizmap: http://hub.qgis.org/projects/lizmapwebclient
+.. _GisClient: http://www.gisclient.org/
+
+.. _GeoExplorer: http://suite.opengeo.org/opengeo-docs/geoexplorer/workspace.html
+
+.. data-visualisation
+
+.. _`D3.js`: http://d3js.org/
+
+.. statistical-data
+
+.. _GNU R: http://www.r-project.org/
+.. _pl/r: http://www.joeconway.com/plr
+.. _rpostgresql: http://cran.r-project.org/web/packages/RPostgreSQL/index.html
+
+.. OLAP
+
+.. _mondrian: http://mondrian.pentaho.com/
+.. _pentaho: http://www.pentaho.com/
+
+.. integrated-development-environments & plug-ins
+
+.. _eclipse: http://www.eclipse.org
+.. _visual studio: http://www.microsoft.com/visualstudio/eng/2013-preview
+.. _mylyn: http://www.eclipse.org/mylyn/
+
+
+.. version-control-systems
+
+.. _bazaar: http://bazaar.canonical.com/en/
+.. _git: http://git-scm.com/
+.. _mercurial: http://mercurial.selenic.com/
+.. _svn: http://subversion.apache.org/
+.. _subversion: SVN_
+
+.. online-sourcecode-fourges
+
+.. _github: https://github.com/
+.. _bitbucket: https://bitbucket.org
+.. _sourceforge: http://sourceforge.net/
+
+.. _allura: http://sourceforge.net/p/allura/wiki/Allura%20Wiki/
+
+.. issue-tracking-systems
+
+.. _bugzilla: http://www.bugzilla.org/
+.. _redmine: http://www.redmine.org/
+.. _request tracker: http://bestpractical.com/rt/
+.. _rt: `request tracker`_
+.. _trac: http://trac.edgewall.org/
+.. _SimpleMultiProject: http://trac-hacks.org/wiki/SimpleMultiProjectPlugin
+
+.. _MantisBT: http://www.mantisbt.org/
+.. _Roundup: http://roundup.sourceforge.net/
+
+.. _JIRA: http://www.atlassian.com/software/jira
+
+.. document-generators
+
+.. _sphinx: http://sphinx-doc.org/
+.. _robodoc: http://rfsber.home.xs4all.nl/Robo/
+.. _doxygen: http://www.stack.nl/~dimitri/doxygen/
+.. _apigen: http://apigen.org/
+.. _javadoc: http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html
+
+.. _docutils: http://docutils.sourceforge.net/
+.. _breathe: https://github.com/michaeljones/breathe
+.. _pygments:  http://pygments.org/ 
+.. _javasphinx: https://github.com/bronto/javasphinx
+
+.. _pandoc: http://johnmacfarlane.net/pandoc/
+
+.. _readthedocs.org: http://readthedocs.org
+.. _readthedocs: https://github.com/rtfd/readthedocs.org
+
+.. bibliographic reference managers et al...
+
+.. _JabRef: http://jabref.sourceforge.net/
+.. _bibtex: http://www.bibtex.org/
+
+.. wiki
+
+.. _MediaWiki: http://www.mediawiki.org/wiki/MediaWiki
+
+.. web servers, web containers et al
+
+.. _Apache HTTP Server: http://httpd.apache.org/
+.. _Apache Tomcat: http://tomcat.apache.org/
+.. _JBoss: http://www.jboss.org/overview/
+.. _GlassFish: https://glassfish.java.net/
+.. _Jetty: http://www.eclipse.org/jetty/
+.. _ngix: http://nginx.org/
+
+.. Web Browsers
+
+.. _Chrome: https://www.google.com/intl/en/chrome/browser/
+.. _Chromium: http://www.chromium.org/Home
+.. _Google Chrome: Chrome_
+.. _Firefox: http://www.mozilla.org/en-US/firefox/new/
+.. _IceWeasel: Firefox_
+.. _Mozilla Firefox: Firefox_
+.. _IE: http://windows.microsoft.com/en-us/internet-explorer/download-ie
+.. _Internet Explorer: IE_
+.. _Safari: http://www.apple.com/safari/
+.. _Opera: http://www.opera.com/
+
+
+.. Mail Transfer Agent
+
+.. _Postfix: http://www.postfix.org/
+.. _Exim: http://www.exim.org/
+
+.. Programming languages 
+
+.. _Perl: http://www.perl.org/
+.. _Python: http://www.python.org/
+.. _Java: http://www.java.com/en/
+.. _Ruby: http://www.ruby-lang.org/en/
+.. _PHP: http://php.net/
+.. _Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+.. _ActionScript: http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
+
+.. Javascript libraries
+
+.. _JQuery: http://jquery.com/
+.. _Ext JS: http://www.sencha.com/products/extjs
+
+.. Development frameworks
+
+.. _Django: https://www.djangoproject.com/
+.. _Ruby on Rails: http://rubyonrails.org/
+
+.. Markup languages
+
+.. _docbook: http://en.wikipedia.org/wiki/Docbook
+
+.. _LaTeX: http://en.wikipedia.org/wiki/LaTeX
+.. _LaTeX project: http://www.latex-project.org/
+
+.. _lightweight markup language: http://en.wikipedia.org/wiki/Lightweight_markup_language
+.. _Markdown: http://en.wikipedia.org/wiki/Markdown
+.. _reStructuredText: rst_
+.. _rst: http://en.wikipedia.org/wiki/ReStructuredText
+.. _Wiki Markup: http://en.wikipedia.org/wiki/MediaWiki#Markup
+.. _Textile: http://en.wikipedia.org/wiki/Textile_(markup_language)
+
+.. _HTML5: http://www.w3.org/TR/html5/
+
+.. _XML: http://en.wikipedia.org/wiki/XML
+
+.. i18n and localization
+
+.. _Transifex: https://www.transifex.com/
+.. _pootle: http://pootle.translatehouse.org/
+.. _QTLinguist: http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360
+
+.. Content Management
+
+.. _WordPress: http://wordpress.com/
+.. _Plone: http://plone.org/
+
+.. formats & protocols
+
+.. _DOC: http://en.wikipedia.org/wiki/Doc_(computing)#Microsoft_Word_Binary_File_Format
+.. _DOCX: http://en.wikipedia.org/wiki/Office_Open_XML
+.. _ODT: http://en.wikipedia.org/wiki/OpenDocument
+
+.. _HTML: https://en.wikipedia.org/wiki/HTML
+
+.. _Microsoft Compiled HTML Help: CHM_
+.. _CHM: https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help
+
+.. _SMTP: http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+
+.. _WFS: http://www.opengeospatial.org/standards/wfs
+.. _WMS: http://www.opengeospatial.org/standards/wms
+.. _WMTS: http://www.opengeospatial.org/standards/wmts
+.. _TMS: http://wiki.osgeo.org/index.php/WMS_Tiling_Client_Recommendation/TMS
+.. _WMS-C: TMS_
+
+.. _CSW: http://www.opengeospatial.org/standards/cat
+
+.. _WFS overview: http://live.osgeo.org/en/standards/wfs_overview.html
+.. _WMS overview: http://live.osgeo.org/en/standards/wms_overview.html
+
+.. _wsgi: https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+.. _cgi: https://en.wikipedia.org/wiki/Common_Gateway_Interface
+.. _fastcgi: https://en.wikipedia.org/wiki/FastCGI
+.. _ajp: https://en.wikipedia.org/wiki/Apache_JServ_Protocol
+
+
+.. Cloud service taxonomy
+
+.. _SaaS: http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf
+.. _PaaS: http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf
+.. _IaaS: http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf
+.. _cloud service models: http://en.wikipedia.org/wiki/Cloud_computing#Service_models
+
+.. other
+
+.. _Dropbox: https://www.dropbox.com/
+
+.. _apache software foundation: asf_
+.. _ASF: http://www.apache.org/
+.. _mozilla: http://www.mozilla.org/
+.. _OSGEO: http://www.osgeo.org/
+
+.. _ohloh: http://www.ohloh.net/
+.. _stackoverflow: http://stackoverflow.com/
+
+.. _google trends: http://www.google.com/trends
+.. _google scholar: http://scholar.google.com
+.. _google group: https://groups.google.com/forum/#!overview
+
+.. _sdmx: http://sdmx.org
+
+.. wikipedia-links
+.. _wikipedia: http://www.wikipedia.org
+.. _project management: http://en.wikipedia.org/wiki/Project_management_software
+.. _issue tracking: http://en.wikipedia.org/wiki/Issue_tracking_system
+.. _version control: http://en.wikipedia.org/wiki/Revision_control
+
+.. comparison of software features and market share indicators
+
+.. _version control software comparison: http://en.wikipedia.org/wiki/Comparison_of_revision_control_software
+.. _documentation generators comparison: http://en.wikipedia.org/wiki/Comparison_of_documentation_generators
+.. _sourcecode hosting services: https://en.wikipedia.org/wiki/Comparison_of_open-source_software_hosting_facilities
+
+.. _Mail Transfer Agent: http://shearer.org/MTA_Comparison
+.. _MTA market share: http://www.securityspace.com/s_survey/data/man.201206/mxsurvey.html
+.. _MTA comparison: http://en.wikipedia.org/wiki/Comparison_of_mail_servers
+
+.. _Google trends on issue tracking systems: http://www.google.com/trends/explore?q=Bugzilla%2C+Trac%2C+Redmine#cat=0-5&q=Bugzilla%2C%20Trac%2C%20Redmine%2C%20Request%20Tracker&date=1%2F2010%2037m&cmpt=q
+
+.. web browsers benchmarks and share
+
+.. _Statcounter: http://gs.statcounter.com/about
+.. _usage share of web browsers: https://en.wikipedia.org/wiki/Usage_share_of_web_browsers
+
+.. _SunSpider: http://www.webkit.org/perf/sunspider/sunspider.html
+.. _Octane: https://developers.google.com/octane/
+.. _Kraken: http://krakenbenchmark.mozilla.org/
+.. _Peacekeeper: http://peacekeeper.futuremark.com/
+.. _Robohornet: http://www.robohornet.org/
+.. _HTML5 test: http://html5test.com
+.. _HTML5 test comparison: http://html5test.com/compare/browser/chrome22/ff22/ie10.html
+
+.. Ohloh
+
+.. _Ohloh indicators on documentation tools: http://www.ohloh.net/p/compare?project_0=Doxygen&project_2=pandoc&project_1=Sphinx+documentation+builder
+.. _Ohloh indicators on issue tracking systems: http://www.ohloh.net/p/compare?project_0=Bugzilla&project_1=Redmine&project_2=Trac
+.. _Ohloh indicators on version control systems: http://www.ohloh.net/p/compare?project_0=Git&project_2=Apache+Subversion&project_1=Mercurial

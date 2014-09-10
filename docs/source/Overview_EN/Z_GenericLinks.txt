@@ -1,0 +1,56 @@
+﻿.. metadata-placeholder
+
+   :DC.Title: 
+      Generic links to be available in all documents
+   :DC.Creator: 
+      Nery, Fernanda
+   :DC.Language:
+      en
+   :DC.Format:
+      text/x-rst 
+   :DC.Description
+      This is a partial file at::
+         /docs/source/Overview_EN/Z_GenericLinks.txt
+         
+      Link it to the master file at:: 
+      
+         /docs/source/Z_SharedFiles/Z_GenericLinks.txt
+         
+      with the following directive::
+      
+         .. include:: ../Overview_EN/Z_GenericLinks.txt
+         
+.. links-placeholder
+
+.. _EUPL:   https://joinup.ec.europa.eu/software/page/eupl
+.. _GPLv2:  http://www.gnu.org/licenses/gpl-2.0.html
+
+.. _open-source: http://opensource.org/docs/osd
+.. _OSI-approved Open Source licence: http://opensource.org/licenses
+
+.. _EUPL-compatible licence: http://joinup.ec.europa.eu/software/page/eupl/eupl-compatible-open-source-licences
+.. _copyleft licence: http://en.wikipedia.org/wiki/Copyleft
+
+.. _vanilla version: http://en.wikipedia.org/wiki/Vanilla_software
+
+.. _Census Hub: https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/Census_Hub
+
+.. _ANLoc: http://www.africanlocalisation.net/sites/default/files/FOSS%20l10n%20guide%20-%2020110214-en.pdf
+
+.. _e-Government Core Vocabularies: http://joinup.ec.europa.eu/community/core_vocabularies/description
+.. _ISA: http://ec.europa.eu/isa/
+.. _HALE: http://community.esdi-humboldt.eu/projects/hale/wiki
+.. _mapping assistant: https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/Mapping_Assistant
+.. _common data model PT: http://m6.ama.pt/docs/ArquiteturaInformacional.pdf 
+
+.. _cryptographic hash function: http://en.wikipedia.org/wiki/Cryptographic_hash_function
+.. _de-identification: http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html
+
+.. _similarity measure: http://publib.boulder.ibm.com/infocenter/spssstat/v20r0m0/index.jsp?topic=%2Fcom.ibm.spss.statistics.help%2Fidh_prox_sim.htm
+.. _k-anonymity: http://dataprivacylab.org/dataprivacy/projects/kanonymity/index.html
+.. _l-diversity: http://www.cs.colostate.edu/~cs656/reading/ldiversity.pdf
+.. _coherence: http://stats.oecd.org/glossary/detail.asp?ID=375
+.. _consistency: http://stats.oecd.org/glossary/detail.asp?ID=5125
+
+.. _SDMX: http://sdmx.org
+.. _SDMX Content-oriented Guidelines: http://sdmx.org/wp-content/uploads/2009/01/00_sdmx_content-oriented_guidelines_2009.pdf

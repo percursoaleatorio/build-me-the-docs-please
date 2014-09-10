@@ -1,0 +1,23 @@
+#Ignore eclipse files
+.project
+.settings/
+.pydevproject
+
+# Ignore Sphinx builds and log
+
+docs/build/
+docs/myBuild.log
+utils/
+ignore/
+
+# Ignore office files that may have slipped by
+*.odt
+*.doc
+*.docx
+*.ods
+# *.xls
+*.xlsx
+*.odp
+*.ppt
+*.pptx
+*.bak

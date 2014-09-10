@@ -1,0 +1,13 @@
+﻿.. 
+   Common configuration options.
+   Add the following directive in the beginning of all rst documents
+         .. include:: ../Z_SharedFiles/Z_CommonConfig.txt
+
+.. max depth of toc in the sidebar
+
+:tocdepth: 2
+
+.. Two new roles from uml artefacts names (and italics). Must change stylesheet. 
+
+.. role:: uml
+.. role:: umli         

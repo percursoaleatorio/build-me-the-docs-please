@@ -1,0 +1,34 @@
+﻿.. metadata-placeholder
+
+   :DC.Title: 
+      Generic links to be available in all documents
+   :DC.Creator: 
+      Nery, Fernanda
+   :DC.Language:
+      en
+   :DC.Format:
+      text/x-rst 
+   :DC.Description   
+   
+   :DC.Description
+      This is the master file at::
+         
+         /docs/source/Z_SharedFiles/Z_GenericLinks.txt
+      
+      Add the following diretive to all rst documents::
+   
+         .. include:: ../Z_SharedFiles/Z_GenericLinks.txt
+
+.. links-placeholder
+
+.. include:: /Overview_EN/Z_GenericLinks.txt
+.. include:: /On_Software/Z_GenericLinks.txt
+.. include:: /On_Documentation/Z_GenericLinks.txt
+
+.. redmine
+
+.. _Bitnami Redmine Stack: http://bitnami.com/stack/redmine
+.. _Oracle VirtualBox: https://www.virtualbox.org/
+.. _VirtualBox Extension Pack: https://www.virtualbox.org/wiki/Downloads
+.. _Redmine step-by-step installation: http://www.redmine.org/projects/redmine/wiki/RedmineInstall
+
