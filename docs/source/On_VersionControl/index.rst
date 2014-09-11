@@ -22,6 +22,8 @@ References
    UsingGit
    
    UsingAnOnlineGitRepository
+   
+   SetUpSSHForGit
 
 .. links-placeholder 
 
