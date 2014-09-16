@@ -89,7 +89,23 @@ Upload a file (and keep older versions)
    .. image:: img/and-the-url-is-always-the-same.png
       :width: 50%
 
-#. Finally, notice that you can select and delete older versions, if necessary.
+
+To remove a previous version
+============================
+
+#. Press ``Edit`` to edit to file.
+
+#. Mark the versions you want to remove:
+
+   .. image:: img/check-to-remove.png
+      :width: 50%
+
+#. Press ``Save changes``.
+
+#. The wrong document is gone...
+
+   .. image:: img/after-removal.png
+      :width: 50%
 
 See the previous versions of a file
 ===================================
