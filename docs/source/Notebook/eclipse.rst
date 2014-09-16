@@ -169,6 +169,13 @@ Import the content of an existing git repository
 
 #. Choose Import as a general project... and follow the wizard.
 
+SVN integration
+===============
+
+See http://www.eclipse.org/subversive/
+
+
+
 PlantUML
 ========
 

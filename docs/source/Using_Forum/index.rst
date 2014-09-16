@@ -9,11 +9,19 @@ This section contains tips on how to best use:
 *  Forum (http://forum.eionet.europa.eu/)
 *  Projects (http://projects.eionet.europa.eu/)
 
+.. warning:: Don't panic! 
+   
+   Help is available in http://forum.eionet.europa.eu/help
+
+
 How to...
 *********
 
 Create a folder
 ===============
+
+First, read http://forum.eionet.europa.eu/help/content_folder ...
+Then...
 
 #. Go the library folder
 
@@ -49,6 +57,9 @@ Create a folder
 
 Upload a file (and keep older versions)
 =======================================
+
+First, read http://forum.eionet.europa.eu/help/content_file ...
+Then...
 
 #. Go the library folder
 
