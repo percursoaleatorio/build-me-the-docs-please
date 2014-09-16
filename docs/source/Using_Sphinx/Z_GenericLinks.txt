@@ -1,0 +1,58 @@
+.. metadata-placeholder
+
+   :DC.Title: 
+      Generic links to be available in all documents
+   :DC.Creator: 
+      Nery, Fernanda
+   :DC.Language:
+      en
+   :DC.Format:
+      text/x-rst 
+   :DC.Description
+      This is a partial file at::
+         /docs/source/On_Documentation/Z_GenericLinks.txt
+         
+      Link it to the master file at:: 
+      
+         /docs/source/Z_SharedFiles/Z_GenericLinks.txt
+         
+      with the following directive::
+      
+         .. include:: ../On_Documentation/Z_GenericLinks.txt
+         
+.. links-placeholder
+
+.. _add Distribute and Pip to the Python installation: https://python-guide.readthedocs.org/en/latest/starting/install/win.html#distribute-pip
+
+.. _Sphinx's reStructuredText Primer: http://sphinx-doc.org/_sources/rest.txt
+.. _reStructuredText User Documentation: http://docutils.sourceforge.net/rst.html
+
+.. _Pygments: http://pygments.org/
+.. _Pygments language lexers: http://pygments.org/docs/lexers/
+
+.. _Notepad++: http://notepad-plus-plus.org/
+.. _jEdit: http://www.jedit.org/
+.. _User Defined Language File: http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=User_Defined_Language_Files
+.. _ReST syntax file: http://steen.hulthin.dk/opensource/reStructuredText_NPP/downloads/reStructuredText_v0.1.zip
+.. _ReST editor for Eclipse: http://resteditor.sourceforge.net/eclipse
+
+.. _exceltable: http://pythonhosted.org/sphinxcontrib-exceltable/
+
+.. _sphinxcontrib-bibtex: https://pypi.python.org/pypi/sphinxcontrib-bibtex
+.. _Harvard System of Referencing: http://libweb.anglia.ac.uk/referencing/harvard.htm
+.. _authorship trigraph: https://forums.zotero.org/discussion/5239/first-letter-of-author-as-citation/
+.. _Dublin Core: http://dublincore.org/
+
+.. _Graphviz: http://graphviz.org
+.. _sphinx.ext.graphviz: http://sphinx-doc.org/ext/graphviz.html
+
+.. _Sphinx PlantUML extension: https://pypi.python.org/pypi/sphinxcontrib-plantuml
+.. _PlantUML: http://plantuml.sourceforge.net/
+
+.. _MathJax: http://www.mathjax.org/demos/tex-samples/
+.. _EqualX: http://equalx.sourceforge.net/
+.. _TeXLive: http://www.tug.org/texlive/
+.. _MiKTeX: http://miktex.org/
+.. _LyX: http://www.lyx.org/
+
+.. _Interactive LaTeX Editor: http://arachnoid.com/latex/
