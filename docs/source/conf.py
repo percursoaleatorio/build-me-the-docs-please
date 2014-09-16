@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Wiser'
-copyright = u'2014, The Nile team | CC BY-SA 3.0 | Exceptions apply! See metadata for each source doc'
+copyright = u'2014, the Nile team | CC BY-SA 3.0 | Exceptions apply! See the sources and metadata for each doc.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
