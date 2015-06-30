@@ -70,6 +70,14 @@ Notepad++ is simpler and more user friendly than jEdit.
 .. figure:: img/NotepadPlusPlus.png
    :alt: This document opened in Notepad++.
    :width: 50%
+   
+ReText
+------
+
+`ReText`_ is a simple editor that reads your text with MarkDown or HTML markup and saves it as plain text, HTML or PDF.
+It is written in Python using Qt libraries.
+
+.. _ReText: http://sourceforge.net/projects/retext/
 
 Builders and converters
 =======================
