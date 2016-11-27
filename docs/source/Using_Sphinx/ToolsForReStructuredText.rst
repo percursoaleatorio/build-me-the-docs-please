@@ -71,6 +71,16 @@ Notepad++ is simpler and more user friendly than jEdit.
    :alt: This document opened in Notepad++.
    :width: 50%
 
+Visual Studio Code
+------------------
+
+`Visual Studio Code <http://code.visualstudio.com>`_ is a FOSS text editor, written in TypeScript (so it runs in Windows, Mac OS X, Linux, etc.).
+ReST is not among the languages natively supported by Visual Studio Code, but it can be added using `an extension from LeXtudio <https://github.com/lextm/vscode-restructuredtext>`_.
+
+.. figure:: img/vscode.png
+   :alt: This document opened in Visual Studio Code.
+   :width: 50%
+
 Builders and converters
 =======================
 
