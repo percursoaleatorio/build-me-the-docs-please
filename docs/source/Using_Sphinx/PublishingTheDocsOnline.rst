@@ -62,7 +62,7 @@ Github.io
    http://daler.github.io/sphinxdoc-test/index.html
 
 
-Turning Jekill off
+Turning Jekyll off
 ------------------
 
 .. note:: Source
