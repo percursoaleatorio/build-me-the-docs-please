@@ -39,6 +39,8 @@ It must be installed before the extension can be used.
 Due to current (2013.10) compatibility issues with PlantUML,
 it may be preferable to install GraphViz 2.28 instead.
 
+.. _sphinx.ext.graphviz: http://www.sphinx-doc.org/en/master/ext/graphviz.html
+
 Including the extension in the project configuration file
 ---------------------------------------------------------
 
